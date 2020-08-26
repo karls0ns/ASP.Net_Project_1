@@ -1,0 +1,162 @@
+﻿body {
+    background-color:azure;
+}
+
+#formMain h1 {
+    font-size:50px;
+    text-align:center; 
+    color:red;
+}
+
+#formBest h1 {
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+}
+
+#formData h1 {
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+}
+
+#formAdd h1 {
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+}
+
+#formDel h1 {
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+}
+
+#formMod h1 {
+    font-size: 50px;
+    text-align: center;
+    color: blue;
+}
+
+.button {
+    font-size: 30px;
+    margin-left:5px;
+    margin-right:5px;   
+    display:inline;   
+    height:75px;
+    width:175px;
+    font-stretch:condensed;
+}
+
+#mainButtons {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#mainAdd {    
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#mainDel {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#mainDelBody {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+
+#mainDelList {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+
+#mainMod {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#mainModBody {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+
+#mainModList {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline-block;
+}
+.Label {
+    margin-top: 10px;
+    display: inline-block;
+    text-align: right;
+    height: 25px;
+    font-size: 25px;
+    vertical-align: middle;
+    width: 150px;
+    margin-right: 10px;
+}
+.textBox {
+    margin-top: 10px;
+    display: inline-block;
+    height: 25px;
+    vertical-align: middle;
+    font-size: 18px;
+    width: 325px;
+    margin-right:10px;
+}
+
+.dropDownList {
+    margin-top: 10px;
+    display: inline-block;
+    height: 30px;
+    vertical-align: middle;
+    font-size: 18px;
+    margin-left: 250px;
+    width: 80px;
+    margin-right: 10px;
+}
+.singleButton {
+    font-size: 30px;
+    margin-left: 10px;
+    margin-right: 50px;
+    height: 50px;
+    width: 150px;
+    margin-top: 10px;
+}
+.txtAtzime {
+    margin-top: 10px;
+    display: inline-block;
+    height: 30px;
+    vertical-align: middle;
+    font-size: 18px;
+    margin-left: 250px;
+    width: 80px;
+    margin-right: 10px;
+}
+
+.singleButtonMid {
+    font-size: 30px;
+    margin-left: 350px;
+    margin-right: 10px;
+    height: 50px;
+    width: 150px;
+    margin-top: 10px;
+ }
